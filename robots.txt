@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: https://renoquotes.com/en/form/service/renovation-basement-with-electricity?utm_campaign=jb
+
+Sitemap: https://basement-quotes.ca/sitemap-index.xml
